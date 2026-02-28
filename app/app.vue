@@ -5,11 +5,11 @@
       <div class="nav-container">
         <NuxtLink to="/" class="nav-brand">
           <img src="/icon.svg" alt="Nuxt Content Starter" class="nav-icon" />
-          Nuxt Content Starter
+          我的个人博客
         </NuxtLink>
         <div class="nav-links">
-          <NuxtLink to="/" class="nav-link">Home</NuxtLink>
-          <NuxtLink to="/about" class="nav-link">About</NuxtLink>
+          <NuxtLink to="/" class="nav-link">主页</NuxtLink>
+          <NuxtLink to="/about" class="nav-link">关于</NuxtLink>
         </div>
       </div>
     </nav>
@@ -22,7 +22,7 @@
     <!-- Footer -->
     <footer class="footer">
       <div class="footer-container">
-        <p>&copy; 2025 Nuxt Content Starter. Built with ❤️ and Nuxt.</p>
+        <p>&copy; 2025 备案号：1111</p>
       </div>
     </footer>
   </div>
