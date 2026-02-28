@@ -1,63 +1,15 @@
 ---
-title: 'About Us'
-description: 'Learn more about this Nuxt Content Starter template.'
+title: '关于我'
+description: '这是我的个人简介'
 date: '2025-01-08'
 ---
 
 
-# About This Project
+# 我是[您的名字]
 
-This **Nuxt Content Starter** is a carefully designed starter template aimed at helping developers quickly build content-driven websites.
+欢迎来到我的数字小窝。
 
-## Project Goals
+- **兴趣**：编程、阅读、旅行
+- **技能**：Markdown写作，用AI搭建博客
 
-Our goal is to provide:
-
-- 🎯 **Easy-to-use** content management solution
-- 🛠️ **Developer-friendly** workflow
-- 📈 **Scalable** architecture design
-- 🎨 **Modern** user experience
-
-## Tech Stack
-
-### Core Technologies
-- **Nuxt 4** - Modern Vue.js framework
-- **Nuxt Content** - File-based content management system
-- **Vue 3** - Progressive JavaScript framework
-- **TypeScript** - Type-safe JavaScript
-
-### Key Features
-- **Markdown Rendering** - Support for GitHub-flavored Markdown
-- **Syntax Highlighting** - Automatic code block highlighting
-- **Responsive Design** - Optimized for mobile and desktop
-- **SEO Optimization** - Automatic meta tag generation
-
-## Use Cases
-
-This template is suitable for:
-
-- 📝 Personal blogs
-- 📚 Technical documentation
-- 🏢 Corporate websites
-- 📖 Online tutorials
-- 🎓 Learning notes
-
-## Contributing
-
-Welcome to submit Issues and Pull Requests to improve this template!
-
-### Development Steps
-
-1. Fork this project
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Thank you for using Nuxt Content Starter! 💖
+[查看我的项目](#) | [联系我](373235404@qq.com)
